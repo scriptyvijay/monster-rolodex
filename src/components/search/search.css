@@ -1,0 +1,20 @@
+.Search-Box input {
+	width: 50%;
+	padding: 0.5rem;
+	border: 1px solid #ccc;
+	border-radius: 0.25rem;
+	font-size: 1rem;
+	font-family: inherit;
+	font-weight: inherit;
+	line-height: inherit;
+	color: inherit;
+	background-color: #fff;
+	-webkit-appearance: none;
+	-moz-appearance: none;
+	appearance: none;
+	outline: none;
+}
+
+.Search-Box input::placeholder {
+	text-align: center;
+}
